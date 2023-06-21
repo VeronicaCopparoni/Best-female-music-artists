@@ -1,8 +1,7 @@
 <html>
   <head>
  
-<title>Project</title>
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
 </head>
 <body>
 <h1 style="text-align:center;"><i>MUSIC</i></h1>
