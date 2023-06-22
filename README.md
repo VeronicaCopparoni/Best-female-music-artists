@@ -68,9 +68,9 @@ p {
 }
 body { text-align: justify ; }
 
-  img1 { float:right ; }
+  .img1 { float:right ; }
 
-  img2 { float:left ; }
+  .img2 { float:left ; }
 
 }
 </style>
@@ -82,9 +82,7 @@ body { text-align: justify ; }
 
 <div class="section">
 <p>For a long time female music artists have been underrepresented in the music scene, lacking the recognition and visibility they deserve just because they are women. Even though they possessed (or possess) skills at an equivalent level – or, often, better – than their male counterparts, they have often faced disparities and barriers, making it difficult for them to showcase the significant contribution they made in the music sector. Though, we can boast of a rich list of female music artists who throughout the decades have made a powerful impact with their unique voices, strong advocacy and creative endeavors. Not only did they break any record with memorable hits, but also they have become cultural icons and symbols of female empowerment in the whole world. Therefore, with our research we wanted to explore all these women who, thanks to their talent and impactful artistic productions, have made their way to become successful music artists of all time and who somehow opened the doors for change in the music business. So, have a look at our story on Melody, where you can see a list of the best selling female artists in the musical world, both legendary names who dominated the music scene in the ‘70s and ‘80s and also prominent figures of the 21st century! </p>
-</div>
-
-<div class="section">
+	
 <p>The true impact and success of an artist can be ascertained through the sale of their albums, therefore this was the criteria behind the composition of the list that you can explore in our interesting story on Melody. Here, you can also find information about their birth date and, above all, about the year they started their career, so as to give you an idea of when they began to build their way up to success and fame. But that’s just the beginning! </p>
 </div>
 
@@ -117,8 +115,6 @@ body { text-align: justify ; }
 Either you are into music or just curious about knowing something new, we believe that this story gives you an interesting insight of all women who have stood the test of time and made history with their outstanding voices and unique ways of expressing universal truths. 
 What are you waiting for? Click <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">here</a> to check our story on Melody!</p>
 </div> <br>
-
-
  
   <div class="footer">
   <p>Footer</p>
