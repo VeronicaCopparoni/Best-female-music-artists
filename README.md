@@ -1,5 +1,4 @@
 <html>
-
 <head>
 <title>Project</title>
 <meta charset="utf-8">
@@ -40,8 +39,6 @@ text-align: centre ; }
   background: #ddd;
   margin-top: 20px;
 }
-
-
 
 </style>
 </head>
@@ -106,7 +103,7 @@ p {
 
 <br>
 <br>
-<p style="clear:right">Another significant recognition that in the music industry female artists usually get for their artistic productions is the nomination for awards and prizes, by means of specific categories, such as a “album of the year” and “best music video” and so on. Therefore, similarly, the bar chart explores the number of nominations that most popular female musicians received during their career in music. This chart is also really useful for you to compare the results from this chart with those that you find in the previous chart. </p>
+<p>Another significant recognition that in the music industry female artists usually get for their artistic productions is the nomination for awards and prizes, by means of specific categories, such as a “album of the year” and “best music video” and so on. Therefore, similarly, the bar chart explores the number of nominations that most popular female musicians received during their career in music. This chart is also really useful for you to compare the results from this chart with those that you find in the previous chart. </p>
 
  <div class="clearfix">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
