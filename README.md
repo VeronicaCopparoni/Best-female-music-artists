@@ -48,7 +48,6 @@ text-align: centre ; }
 </style>
 </head>
 <body>
-<img src="header2.jpg" alt=Image1>
 <div class="header">
  <h1>Discover the Magic of Music</h1>
 </div>
