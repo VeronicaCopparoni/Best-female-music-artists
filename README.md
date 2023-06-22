@@ -61,6 +61,7 @@ p {
 }
   h1 {
   font-family: "Times New Roman", Times, serif;
+    text-align: centre 
 }
   h2 {
   font-family: "Times New Roman", Times, serif;
@@ -71,10 +72,6 @@ body { text-align: justify ; }
 
   img2 { float:left ; }
 
-  .clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
 }
 </style>
 </head>
