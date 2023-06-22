@@ -47,7 +47,7 @@ float: centre ;
 <body>
 
 <div class="header">
-  <img src="header.jpg" alt=Image1>
+  <img src="header2.jpg" alt=Image1>
   <h1>Discover the Magic of Music</h1>
 </div>
 
