@@ -76,9 +76,9 @@ p {
   font-family: "Times New Roman", Times, serif;
 }
 
-  .img1 { float:right }
+  .img1 { float:right ; width:300px ; hight:140 }
 
-  .img2 {float:left }
+  .img2 {float:left ; width:300px ; hight:140 }
 
   .clearfix::after {
   content: "";
