@@ -90,11 +90,9 @@ p {
 
 
  <div class="section">
-    <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chartd.jpg" alt="Image 1" style="float:right;width:450px;height:240px;"/>
+       <img src="chartd.jpg" class="img1" style="float:right;width:450px;height:240px;"/>
       </a>
-    </div>
   </div>
 
 <br>
@@ -102,9 +100,8 @@ p {
 <p>Another significant recognition that in the music industry female artists usually get for their artistic productions is the nomination for awards and prizes, by means of specific categories, such as a “album of the year” and “best music video” and so on. Therefore, similarly, the bar chart explores the number of nominations that most popular female musicians received during their career in music. This chart is also really useful for you to compare the results from this chart with those that you find in the previous chart. </p>
 
  <div class="section">
-    <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chart2l.jpg" alt="Image 1" width="450" height="240" style="float:left;width:450px;height:240px;"/>
+       <img src="chart2l.jpg" class=img2 style="float:left;width:450px;height:240px;"/>
       </a>
     </div>
   </div>
