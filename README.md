@@ -67,9 +67,9 @@ p {
 }
 .section { justify-content: centre ; }
 
-  .img1 { float:right ; }
+  img1 { float:right ; }
 
-  .img2 {float:left  }
+  img2 { float:left ; }
 
   .clearfix::after {
   content: "";
@@ -119,9 +119,7 @@ p {
 
 Either you are into music or just curious about knowing something new, we believe that this story gives you an interesting insight of all women who have stood the test of time and made history with their outstanding voices and unique ways of expressing universal truths. 
 What are you waiting for? Click <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">here</a> to check our story on Melody!</p>
-</div>
-
-<br>
+</div> <br>
 
 
  
