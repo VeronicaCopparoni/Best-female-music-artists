@@ -92,23 +92,24 @@ p {
  <div class="section">
     <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chartd.jpg" alt="Image 1" style="float:right;width:450px;height:240px;"/>
+       <img src="chartd.jpg" alt="Image 1" style="float:right;width:350px;height:140px;"/>
       </a>
     </div>
   </div>
 
 <br>
+<br>
 <p>Another significant recognition that in the music industry female artists usually get for their artistic productions is the nomination for awards and prizes, by means of specific categories, such as a “album of the year” and “best music video” and so on. Therefore, similarly, the bar chart explores the number of nominations that most popular female musicians received during their career in music. This chart is also really useful for you to compare the results from this chart with those that you find in the previous chart. </p>
 
-
-   <div class="section">
+ <div class="section">
     <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chart2l.jpg" alt="Image 1" width="450" height="240" style="float:left;width:450px;height:240px;"/>
+       <img src="chart2l.jpg" alt="Image 1" width="450" height="240" style="float:left;width:350px;height:140px;"/>
       </a>
     </div>
   </div>
   
+<br>
 <br>
 
 <p>Last but not least, if you are curious and you want to know more about the best selling female artists of all time, you can also have a look at the place of where they were born, thanks to the map you find in the story and so you can see what is the country from which the largest number of most successful women in the music industry come.</p>
