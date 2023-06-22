@@ -95,7 +95,7 @@ p {
 
 <p>The true impact and success of an artist can be ascertained through the sale of their albums, therefore this was the criteria behind the composition of the list that you can explore in our interesting story on Melody. Here, you can also find information about their birth date and, above all, about the year they started their career, so as to give you an idea of when they began to build their way up to success and fame. But that’s just the beginning! </p>
 
-<p>We all know that getting a prize, such as a Grammy Award, represents a remarkable and prestigious recognition of one’s works and achievements in the music sector. So, can you guess who is the female artist who won the highest number of awards in the history of music and how many are these? By looking at the doughnut chart you will not only get the answer, but you will see the exact number of awards won by each of these female artists. </p>
+<p style="clear:left">We all know that getting a prize, such as a Grammy Award, represents a remarkable and prestigious recognition of one’s works and achievements in the music sector. So, can you guess who is the female artist who won the highest number of awards in the history of music and how many are these? By looking at the doughnut chart you will not only get the answer, but you will see the exact number of awards won by each of these female artists. </p>
 
 
  <div class="clearfix">
@@ -106,7 +106,7 @@ p {
 
 <br>
 <br>
-<p>Another significant recognition that in the music industry female artists usually get for their artistic productions is the nomination for awards and prizes, by means of specific categories, such as a “album of the year” and “best music video” and so on. Therefore, similarly, the bar chart explores the number of nominations that most popular female musicians received during their career in music. This chart is also really useful for you to compare the results from this chart with those that you find in the previous chart. </p>
+<p style="clear:right">Another significant recognition that in the music industry female artists usually get for their artistic productions is the nomination for awards and prizes, by means of specific categories, such as a “album of the year” and “best music video” and so on. Therefore, similarly, the bar chart explores the number of nominations that most popular female musicians received during their career in music. This chart is also really useful for you to compare the results from this chart with those that you find in the previous chart. </p>
 
  <div class="clearfix">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
