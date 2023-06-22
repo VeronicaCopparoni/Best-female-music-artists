@@ -78,8 +78,11 @@ p {
   h2 {
   font-family: "Times New Roman", Times, serif;
 }
-  img1 { float:right ; text-align:left ;}
-  img2 {float:left ; text-align:right ; }
+  img1 {
+      flex: 1;
+      margin-left: 20px;
+    }
+  img2 { flex:2 ; margin-right: 20px ; }
   </style>
 
 <h1>Best female music artists</h1>  
