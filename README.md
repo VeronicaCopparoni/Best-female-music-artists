@@ -76,9 +76,9 @@ p {
   font-family: "Times New Roman", Times, serif;
 }
 
-  .img1 { float:right ; width:300px ; hight:140 }
+  .img1 { float:right ; }
 
-  .img2 {float:left ; width:300px ; hight:140 }
+  .img2 {float:left  }
 
   .clearfix::after {
   content: "";
@@ -100,7 +100,7 @@ p {
 
  <div class="clearfix">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img class="img1" src="chartd.jpg"/>
+       <img class="img1" src="chartd.jpg" width="300" height="150"/>
       </a>
   </div>
 
@@ -110,7 +110,7 @@ p {
 
  <div class="clearfix">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img class=img2  src="chart2l.jpg"/>
+       <img class=img2  src="chart2l.jpg" width="300" height="150"/>
       </a>
   </div>
   
