@@ -96,6 +96,9 @@ Last but not least, if you are curious and you want to know more about the best 
 What are you waiting for? Click <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">here</a> to check our story on Melody!
 
 </p>
+<br>
+
+</br>
 
  <div class="section">
     <div class="section-image">
