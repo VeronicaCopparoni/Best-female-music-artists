@@ -1,6 +1,26 @@
 
 
 <html>
+
+      <css-doodle>
+      :doodle {
+        @grid: 20 / 100vmax;
+        @min-size: 30em;
+      }
+
+      transition: @rand(500ms) ease;
+
+      background: @pick(
+        #1F2525, #272E2E, #279861, #3DED97
+      );
+
+      border-radius: @pick(
+        100% 0 0 0,
+        0 100% 0 0,
+        0 0 100% 0,
+        0 0 0 100%
+      );
+    </css-doodle>
 <body>
 
 <style>
