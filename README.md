@@ -12,4 +12,4 @@
   <li><a href="https://veronicacopparoni.github.io/Main-page">Home</a></li>
   <li><a href="https://veronicacopparoni.github.io/ourproject">News</a></li>
 </ul>
-<embed type="image/jpg" src="https://quickchart.io/chart?c=%7Btype:%22doughnut%22,%20data:%7Blabels:%5Bundefined%5D,datasets:%5B%7Blabel:%22data%22,%20data:%5B%5D%7D%5D%7D%7D">
+<img type="image/jpg" src="https://quickchart.io/chart?c=%7Btype:%22doughnut%22,%20data:%7Blabels:%5Bundefined%5D,datasets:%5B%7Blabel:%22data%22,%20data:%5B%5D%7D%5D%7D%7D">
