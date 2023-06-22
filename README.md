@@ -39,7 +39,7 @@ What are you waiting for? Click <a href="https://melody-data.github.io/stories/p
   </div>
 
 <ul>
-  <li><a href="https://veronicacopparoni.github.io/Main-page">Home</a></li>
-  <li><a href="https://veronicacopparoni.github.io/ourproject">News</a></li>
+  <li><a href="https://veronicacopparoni.github.io/Homepage">Home</a></li>
+  <li><a href="https://veronicacopparoni.github.io/Best-female-music-artists">Best female music artists</a></li>
 </ul>
 
