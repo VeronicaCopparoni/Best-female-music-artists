@@ -17,8 +17,8 @@ body {
 float: centre ;
  text-align: center; }
 
-
-
+.h1 { text-overlay ;
+text-align: centre }
 
 .topnav {
   overflow: hidden;
@@ -47,14 +47,10 @@ float: centre ;
 <body>
 
 <div class="header">
-    <div align="center">
-<div class="text-overlay">
   <img src="header2.jpg" alt=Image1>
+ <h1>Discover the Magic of Music</h1>
+</div>
 
-  <h1>Discover the Magic of Music</h1>
-</div>
-</div>
-</div>
 
 <div class="topnav">
   <a href="https://veronicacopparoni.github.io/Homepage">Home</a>
