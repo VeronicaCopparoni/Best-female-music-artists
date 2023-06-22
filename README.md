@@ -98,7 +98,7 @@ What are you waiting for? Click <a href="https://melody-data.github.io/stories/p
 </p>
 <br>
 
-</br>
+
 
  <div class="section">
     <div class="section-image">
