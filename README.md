@@ -65,7 +65,7 @@ p {
   h2 {
   font-family: "Times New Roman", Times, serif;
 }
-.section { justify-content: centre ; }
+.section { text-align: justify ; }
 
   img1 { float:right ; }
 
