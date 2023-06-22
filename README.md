@@ -1,5 +1,3 @@
-
-
 <html>
 
 <head>
@@ -41,6 +39,7 @@ body {
   background-color: #ddd;
   color: black;
 }
+.img { float: centre }
 </style>
 </head>
 <body>
