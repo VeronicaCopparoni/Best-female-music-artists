@@ -61,7 +61,7 @@ text-align: centre ; }
 
 
 
-<body>
+<head>
 
 <style>
 p {
@@ -85,6 +85,8 @@ p {
 }
 
 </style>
+</head>
+<body>
 
 <h1>Best female music artists</h1>  
 <h2>A story written by Veronica Copparoni and Tatiana Giacobbo</h2>
