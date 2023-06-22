@@ -9,7 +9,7 @@ p {
 }
   </style>
 
-<h1">Best female music artists</h1>  
+<h1>Best female music artists</h1>  
 
 <p>For a long time female music artists have been underrepresented in the music scene, lacking the recognition and visibility they deserve just because they are women. Even though they possessed (or possess) skills at an equivalent level – or, often, better – than their male counterparts, they have often faced disparities and barriers, making it difficult for them to showcase the significant contribution they made in the music sector. Though, we can boast of a rich list of female music artists who throughout the decades have made a powerful impact with their unique voices, strong advocacy and creative endeavors. Not only did they break any record with memorable hits, but also they have become cultural icons and symbols of female empowerment in the whole world. Therefore, with our research we wanted to explore all these women who, thanks to their talent and impactful artistic productions, have made their way to become successful music artists of all time and who somehow opened the doors for change in the music business. So, have a look at our story on Melody, where you can see a list of the best selling female artists in the musical world, both legendary names who dominated the music scene in the ‘70s and ‘80s and also prominent figures of the 21st century! 
 
