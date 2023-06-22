@@ -77,7 +77,7 @@ p {
 
   .img2 {float:left  }
 
-  .clearfix: {
+  .clearfix::after {
   content: "";
   clear: both;
   display: table;
