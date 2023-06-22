@@ -99,4 +99,8 @@ What are you waiting for? Click <a href="https://melody-data.github.io/stories/p
       </a>
     </div>
   </div>
+  <div class="footer">
+  <p>Footer</p>
+</div>
+  
 
