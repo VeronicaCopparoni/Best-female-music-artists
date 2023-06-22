@@ -77,12 +77,15 @@ p {
   h2 {
   font-family: "Times New Roman", Times, serif;
 }
-  .section-image1 {
+  section-image1 {
       flex: 1;
       margin-left: 20px;
     }
-  .section-image2 { flex:2 ; margin-right: 20px ; }
-  </style>
+  section-image2 { 
+    flex:2 ;
+    margin-right: 20px ; }
+
+</style>
 
 <h1>Best female music artists</h1>  
 <h2>A story written by Veronica Copparoni and Tatiana Giacobbo</h2>
