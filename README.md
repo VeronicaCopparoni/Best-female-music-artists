@@ -12,7 +12,7 @@
 body {
   margin: 0;
 }
-.img { opacity: 0.4 }
+.img { opacity: 0.2 }
  
 .header {
 float: centre ;
