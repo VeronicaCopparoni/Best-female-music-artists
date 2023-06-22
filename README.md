@@ -12,8 +12,6 @@
 body {
   margin: 0;
 }
-
-.img { opacity: 0.2 ; }
  
 .header {
 float: centre ;
@@ -77,13 +75,7 @@ p {
   h2 {
   font-family: "Times New Roman", Times, serif;
 }
-  section-image1 {
-      flex: 1;
-      margin-left: 20px;
-    }
-  section-image2 { 
-    flex:2 ;
-    margin-right: 20px ; }
+
 
 </style>
 
@@ -100,7 +92,7 @@ p {
  <div class="section">
     <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chartd.jpg" alt="Image 1" width="450" height="240"/>
+       <img src="chartd.jpg" alt="Image 1" width="450" height="240" style="float:right;width:42px;height:42px;"/>
       </a>
     </div>
   </div>
@@ -112,7 +104,7 @@ p {
    <div class="section">
     <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chart2l.jpg" alt="Image 1" width="450" height="240"/>
+       <img src="chart2l.jpg" alt="Image 1" width="450" height="240"style="float:left;width:42px;height:42px;"/>
       </a>
     </div>
   </div>
