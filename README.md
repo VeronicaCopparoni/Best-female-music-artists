@@ -15,7 +15,7 @@ body {
   margin: 0;
 }
 
-/* Style the header */
+
 .header {
   background-color: #f1f1f1;
   padding: 20px;
@@ -46,6 +46,7 @@ body {
 <body>
 
 <div class="header">
+  <img src="header.jpg alt=Image1"
   <h1>Discover the Magic of Music</h1>
 </div>
 
