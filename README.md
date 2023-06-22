@@ -76,6 +76,11 @@ p {
   font-family: "Times New Roman", Times, serif;
 }
 
+  .clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 </style>
 
@@ -89,7 +94,7 @@ p {
 <p>We all know that getting a prize, such as a Grammy Award, represents a remarkable and prestigious recognition of one’s works and achievements in the music sector. So, can you guess who is the female artist who won the highest number of awards in the history of music and how many are these? By looking at the doughnut chart you will not only get the answer, but you will see the exact number of awards won by each of these female artists. </p>
 
 
- <div class="section">
+ <div class="clearfix">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
        <img src="chartd.jpg" class="img1" style="float:right;width:450px;height:240px;"/>
       </a>
@@ -99,7 +104,7 @@ p {
 <br>
 <p>Another significant recognition that in the music industry female artists usually get for their artistic productions is the nomination for awards and prizes, by means of specific categories, such as a “album of the year” and “best music video” and so on. Therefore, similarly, the bar chart explores the number of nominations that most popular female musicians received during their career in music. This chart is also really useful for you to compare the results from this chart with those that you find in the previous chart. </p>
 
- <div class="section">
+ <div class="clearfix">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
        <img src="chart2l.jpg" class=img2 style="float:left;width:450px;height:240px;"/>
       </a>
