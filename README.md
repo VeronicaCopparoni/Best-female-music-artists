@@ -90,7 +90,7 @@ body { text-align: justify ; }
 
 
 <div class="section">
-<p style="clear:left">We all know that getting a prize, such as a Grammy Award, represents a remarkable and prestigious recognition of one’s works and achievements in the music sector. So, can you guess who is the female artist who won the highest number of awards in the history of music and how many are these? By looking at the doughnut chart you will not only get the answer, but you will see the exact number of awards won by each of these female artists. </p>
+<p>We all know that getting a prize, such as a Grammy Award, represents a remarkable and prestigious recognition of one’s works and achievements in the music sector. So, can you guess who is the female artist who won the highest number of awards in the history of music and how many are these? By looking at the doughnut chart you will not only get the answer, but you will see the exact number of awards won by each of these female artists. </p>
 
 
  <div class="clearfix">
