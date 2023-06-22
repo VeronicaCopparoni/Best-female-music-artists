@@ -12,6 +12,10 @@
 body {
   margin: 0;
 }
+ 
+.header {
+float: centre ;
+ text-align: center; }
 
 
 
