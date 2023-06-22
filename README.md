@@ -16,7 +16,8 @@ body {
  
 .header {
 float: centre ;
- text-align: center; }
+ text-align: center;
+ opacity: 0.1 }
 
 .h1 { text-overlay ;
 text-align: centre }
