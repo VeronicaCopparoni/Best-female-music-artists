@@ -114,10 +114,10 @@ p {
   </div>
 </div>
 
-<<div class="section">
-  <p>Last but not least, if you are curious and you want to know more about the best selling female artists of all time, you can also have a look at the place of where they were born, thanks to the map you find in the story and so you can see what is the country from which the largest number of most successful women in the music industry come.
+<div class="section">
+<p>Last but not least, if you are curious and you want to know more about the best selling female artists of all time, you can also have a look at the place of where they were born, thanks to the map you find in the story and so you can see what is the country from which the largest number of most successful women in the music industry come.
 
-    Either you are into music or just curious about knowing something new, we believe that this story gives you an interesting insight of all women who have stood the test of time and made history with their outstanding voices and unique ways of expressing universal truths. 
+Either you are into music or just curious about knowing something new, we believe that this story gives you an interesting insight of all women who have stood the test of time and made history with their outstanding voices and unique ways of expressing universal truths. 
 What are you waiting for? Click <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">here</a> to check our story on Melody!</p>
 </div>
 
