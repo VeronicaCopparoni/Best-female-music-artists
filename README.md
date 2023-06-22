@@ -61,10 +61,10 @@ p {
 }
   h1 {
   font-family: "Times New Roman", Times, serif;
-    text-align:centre 
+    text-align: centre 
 }
   h2 {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Times New Roman", Times, serif; font-style: italic ;
 }
 body { text-align: justify ; }
 
