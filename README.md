@@ -36,8 +36,7 @@ body {
 
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  img: src="header.jpg" alt=Image1
 }
 .img { float: centre }
 </style>
