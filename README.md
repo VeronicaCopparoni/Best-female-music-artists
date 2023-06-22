@@ -108,7 +108,6 @@ p {
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
        <img src="chart2l.jpg" class=img2 style="float:left;width:450px;height:240px;"/>
       </a>
-    </div>
   </div>
   
 <br>
