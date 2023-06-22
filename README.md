@@ -12,6 +12,7 @@
 body {
   margin: 0;
 }
+
 .img { opacity: 0.2 ; }
  
 .header {
@@ -19,8 +20,8 @@ float: centre ;
  text-align: center;
  }
 
-.h1 { text-overlay ;
-text-align: centre }
+.h1 {
+text-align: centre ; }
 
 .topnav {
   overflow: hidden;
