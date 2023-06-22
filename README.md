@@ -59,7 +59,7 @@ text-align: centre ; }
 p {
   font-family: "Times New Roman", Times, serif;
 }
-  h1 {
+  .head1 {
   font-family: "Times New Roman", Times, serif;
     text-align: centre 
 }
@@ -76,8 +76,9 @@ body { text-align: justify ; }
 </style>
 </head>
 <body>
-
+<div class:"head1">
 <h1>Best female music artists</h1>  
+</div>
 <h2>A story written by Veronica Copparoni and Tatiana Giacobbo</h2>
 
 <div class="section">
