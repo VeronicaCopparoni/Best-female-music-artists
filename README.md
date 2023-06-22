@@ -15,7 +15,7 @@ body {
 
 
 .header {
-  background-color: #f1f1f1;
+  background-image: (url:header.jpg) ;
   padding: 20px;
   text-align: center;
 }
@@ -35,10 +35,6 @@ body {
 }
 
 
-.topnav a:hover {
-  img: src="header.jpg" alt=Image1
-}
-.img { float: centre }
 </style>
 </head>
 <body>
@@ -98,6 +94,7 @@ What are you waiting for? Click <a href="https://melody-data.github.io/stories/p
       </a>
     </div>
   </div>
+ 
   <div class="footer">
   <p>Footer</p>
 </div>
