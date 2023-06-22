@@ -21,7 +21,7 @@ What are you waiting for? Click here to check our story on Melody!
  <div class="section">
     <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chartd.jpg" alt="Image 1" width="400" height="240"/>
+       <img src="chartd.jpg" alt="Image 1" width="450" height="240"/>
       </a>
     </div>
   </div>
