@@ -96,7 +96,7 @@ p {
 
  <div class="clearfix">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chartd.jpg" class="img1" style="float:right;width:450px;height:240px;"/>
+       <img class="img1" src="chartd.jpg" style="float:right;width:450px;height:240px;"/>
       </a>
   </div>
 
@@ -106,7 +106,7 @@ p {
 
  <div class="clearfix">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chart2l.jpg" class=img2 style="float:left;width:450px;height:240px;"/>
+       <img class=img2  src="chart2l.jpg" style="float:left;width:450px;height:240px;"/>
       </a>
   </div>
   
