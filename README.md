@@ -14,11 +14,7 @@ body {
 }
 
 
-.header {
-  background-image: (url:header.jpg) ;
-  padding: 20px;
-  text-align: center;
-}
+
 
 .topnav {
   overflow: hidden;
