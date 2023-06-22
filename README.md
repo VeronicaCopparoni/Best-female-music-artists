@@ -39,6 +39,7 @@ text-align: centre ; }
   background: #ddd;
   margin-top: 20px;
 }
+.section { justify-content: centre }
 
 </style>
 </head>
