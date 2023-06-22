@@ -39,30 +39,22 @@ text-align: centre ; }
   background: #ddd;
   margin-top: 20px;
 }
-.section { justify-content: centre ; }
 
 </style>
 </head>
-<body>
+
 <div class="header">
  <h1>Discover the Magic of Music</h1>
 </div>
-
 
 <div class="topnav">
   <a href="https://veronicacopparoni.github.io/Homepage">Home</a>
   <a href="https://veronicacopparoni.github.io/Best-female-music-artists">Best female music artists</a>
   <a href="https://veronicacopparoni.github.io/Reports/">Reports</a>
 </div>
-
-</body>
 </html>
 
-
-
-
 <head>
-
 <style>
 p {
   font-family: "Times New Roman", Times, serif;
@@ -73,6 +65,7 @@ p {
   h2 {
   font-family: "Times New Roman", Times, serif;
 }
+.section { justify-content: centre ; }
 
   .img1 { float:right ; }
 
@@ -83,7 +76,6 @@ p {
   clear: both;
   display: table;
 }
-
 </style>
 </head>
 <body>
