@@ -92,7 +92,7 @@ p {
  <div class="section">
     <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chartd.jpg" alt="Image 1" width="450" height="240" style="float:right;width:42px;height:42px;"/>
+       <img src="chartd.jpg" alt="Image 1" style="float:right;width:450px;height:240px;"/>
       </a>
     </div>
   </div>
@@ -104,7 +104,7 @@ p {
    <div class="section">
     <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1686643551.648723.html">
-       <img src="chart2l.jpg" alt="Image 1" width="450" height="240"style="float:left;width:42px;height:42px;"/>
+       <img src="chart2l.jpg" alt="Image 1" width="450" height="240" style="float:left;width:450px;height:240px;"/>
       </a>
     </div>
   </div>
