@@ -33,6 +33,13 @@ body {
   padding: 14px 16px;
   text-decoration: none;
 }
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
 
 
 </style>
